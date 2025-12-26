@@ -1,18 +1,70 @@
-# 💫 About Me:
-👋 Hi there! I'm Ashutosh — a passionate backend developer who loves building scalable and efficient solutions.<br><br>🔭 Currently working on a SaaS-based application using Java, Spring Boot & Microservices architecture.<br><br>🌱 Exploring the world of Machine Learning & AI to blend intelligence with clean code.<br><br>💡 I enjoy solving real-world problems and continuously learning new technologies.<br><br>⚙️ Tech I'm working with: Java | Spring Boot | Microservices | Docker  Azure | MySQL | RabbitMQ | Angular | Python<br>
+# Hi there, I'm Ashutosh Yadav 👋
 
+<div align="center">
+  <h3>MSc Computer Science @ UCD | Software Developer | Distributed Systems Engineer</h3>
+  <p>
+    Building the intersection of <b>High-Frequency Systems</b> and <b>Financial Modeling</b>.
+  </p>
+  
+  <a href="https://www.linkedin.com/in/ashutosh-yadav-057181194/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ashutoshy115@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-yadav-057181194/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshy115@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kronos279&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kronos279&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kronos279&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
+I am a software engineer and graduate student at **University College Dublin**, specializing in **High-Performance Computing** and **Quantitative Finance**. 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kronos279&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+With a background in building enterprise-scale microservices (at Capgemini & Morningstar), I am now pivoting to apply those engineering principles to financial markets. My work bridges the gap between **robust software architecture** and **stochastic modeling**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🔭 **Currently working on:** Algorithmic trading strategies & low-latency Python systems.
+* 🎓 **Research focus:** Econometric time-series analysis & Vector Search algorithms.
+* 💼 **Experience:** Ex-Capgemini, Ex-Morningstar.
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Econometric Analysis](https://github.com/Kronos279/Econometric-Analysis)** | 🐍 Python, Statsmodels, GARCH | A rigorous replication of macroeconomic research (1990-2006) analyzing inflation dynamics and volatility clustering using **ARIMA & GARCH(1,1)** models. |
+| **[SnapSearch](https://github.com/Kronos279/SnapSearch)** | 👁️ PyTorch, FAISS, PyQt | A local macOS semantic search engine. Uses **Florence-2** for vision and **HNSW Indexing** for sub-millisecond vector retrieval. |
+| **[AetherWings](https://github.com/Kronos279/FlightManagementSystem)** | ☕ Java, RabbitMQ, Microservices | A distributed flight booking system handling high concurrency with **Event-Driven Architecture** and ACID compliance. |
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Quantitative & Data Science**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
+### **Systems Engineering & Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kronos279&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kronos279&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kronos279&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
