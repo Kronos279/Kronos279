@@ -41,29 +41,29 @@ const ashutosh: CursedTechnique = {
   stack:      ["Python / FastAPI", "React / Next.js", "AWS", "Docker", "PostgreSQL"],
   interests:  ["FinTech", "AI Systems", "Distributed Architecture", "Data Engineering"],
   experience: ["Capgemini — Software Engineer", "Morningstar — Data Analyst"],
-  available:  "Internship opportunities from June 2026 🔵",
+  available:  "Internship opportunities from June 2026",
 };
 ```
 
 ---
 
-## ∞ Cursed Technique — Tech Stack
+## Cursed Technique — Tech Stack
 
-### 🔵 Blue (Negative) — AI & Data
+### AI & Data
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 🔴 Red (Positive) — Full Stack
+### Full Stack
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### ☯️ Hollow Purple — Databases & Cloud
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-0467DF?style=for-the-badge&logo=meta&logoColor=white)
@@ -74,7 +74,7 @@ const ashutosh: CursedTechnique = {
 
 ---
 
-## 📖 Six Eyes — Featured Projects
+## Featured Projects
 
 <table>
   <tr>
