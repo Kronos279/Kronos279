@@ -125,6 +125,24 @@ const ashutosh: CursedTechnique = {
       <a href="https://github.com/Kronos279/FlightManagementSystem">→ View Project</a>
     </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top">
+    <div align="center"><b>🤖 Corporate Finance Autopilot</b></div>
+    <div align="center"><i>Agentic AI Finance Platform</i></div><br/>
+    Agentic AI loop powered by Llama 3.3 70B with autonomous tool-calling, RAG over SEC filings via pgvector, DCF/WACC financial engine, and real-time WebSocket streaming. Deployed on Google Cloud Run with CI/CD via Cloud Build.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+    <br/><br/>
+    <a href="https://github.com/Kronos279/corporate-finance-autopilot">→ Backend</a> · 
+    <a href="https://github.com/Kronos279/corporate-finance-autopilot-frontend">→ Frontend</a> · 
+    <a href="https://corporate-finance-autopilot-fronten.vercel.app/">→ Live Demo</a>
+  </td>
+  <td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ---
