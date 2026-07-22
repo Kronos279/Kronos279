@@ -1,182 +1,185 @@
-<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0c1a3a,70:1a3a6b,100:4fc3f7&height=220&section=header&text=Ashutosh%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=「Throughout%20Terminals%20and%20Deploys%2C%20I%20Alone%20Push%20to%20Production」&descAlignY=60&descColor=4fc3f7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0c1a3a,70:1a3a6b,100:4fc3f7&height=200&section=header&text=Ashutosh%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Throughout%20Terminals%20and%20Deploys%2C%20I%20Alone%20Push%20to%20Production&descAlignY=62&descColor=8fb8e0&descSize=15&animation=fadeIn" />
 
-<img src="https://media1.tenor.com/m/_8O4DHf4oPQAAAAd/gojo-satoru-gojo.gif" width="200" alt="Gojo Satoru"/>
+<img src="https://media1.tenor.com/m/_8O4DHf4oPQAAAAd/gojo-satoru-gojo.gif" width="150" alt="Gojo Satoru"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=680&lines=%E2%9C%A6+Full+Stack+Software+Engineer+%E2%9C%A6;%E2%88%9E+LLM+Orchestration+%7C+RAG+%7C+Vector+Search+%E2%88%9E;%E2%9C%A6+Java+%2F+Spring+Boot+%7C+React+%2F+Next.js+%E2%9C%A6;%E2%88%9E+FinTech+%7C+Corporate+Finance+%7C+AI+Systems+%E2%88%9E;%E2%9C%A6+MSc+Computer+Science+%40+UCD+Dublin+%F0%9F%87%AE%F0%9F%87%AA+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=600&lines=AI+Software+Engineering+Intern+%40+EXL+Service;Agentic+RAG+%7C+LLM+Orchestration+%7C+Vector+Search;Java+%2F+Spring+Boot+%C2%B7+Python+%2F+FastAPI+%C2%B7+React;MSc+Computer+Science+%40+UCD+Dublin" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashutosh_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-yadav-057181194/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashutoshya.com-4fc3f7?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshya.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshy115@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kronos279&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/ashutosh-yadav-057181194/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://ashutoshya.com"><img src="https://img.shields.io/badge/Portfolio-4fc3f7?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ashutoshy115@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Kronos279&color=4fc3f7&style=flat-square&label=Profile+Views" />
 
 </div>
 
----
-
-<div align="center">
-  <b>〔 ∞ &nbsp; UNLIMITED VOID &nbsp; ∞ 〕&nbsp;—&nbsp; whoami</b>
-</div>
-
 <br/>
+
+## About
 
 ```typescript
-const ashutosh: CursedTechnique = {
-  name:       "Ashutosh Yadav",
-  location:   "Dublin, Ireland 🇮🇪",
-  education:  "MSc Computer Science @ University College Dublin",
-  role:       "Full Stack Software Engineer",
-  domain:     "∞  Throughout Terminals and Deploys, I Alone Push to Production  ∞",
-  stack:      ["Python / FastAPI", "React / Next.js", "AWS", "Docker", "PostgreSQL"],
-  interests:  ["FinTech", "AI Systems", "Distributed Architecture", "Data Engineering"],
-  experience: ["Capgemini — Software Engineer", "Morningstar — Data Analyst"],
-  available:  "Internship opportunities from June 2026",
+const ashutosh = {
+  location:     "Dublin, Ireland 🇮🇪",
+  education:    "MSc Computer Science @ University College Dublin (2026)",
+  role:         "AI Software Engineering Intern @ EXL Service",
+  currentFocus: ["Agentic RAG systems", "Graph-based fraud detection", "LLM evaluation @ scale"],
+  experience:   ["EXL Service — AI SWE Intern", "Capgemini — Software Engineer", "Morningstar — Data Analyst"],
+  openSource:   "Active contributor — seed4j-cli, db2rest",
 };
 ```
 
----
+<br/>
 
-## Cursed Technique — Tech Stack
+## Tech Stack
 
-### AI & Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Full Stack
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+**AI & Data**
+<br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</td>
+<td valign="top" width="33%">
 
----
+**Full Stack**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Databases & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Currently @ EXL Service
+
+Building AI systems on the EXLerate.ai platform as an AI Software Engineering Intern (Dublin IFSC).
+
+- **End-to-end RAG Agent** — S3-backed knowledge base with incremental sync, fine-tuned chunking, document de-duplication, a stateless backend, CLI tooling, LangFuse-based evaluation, and a React chat UI now live in the EXLerate component library.
+- **Graph-based Fraud Detection Agent** — Neo4j-backed investigation agent comparing tool-calling, agent-skills, and LangGraph approaches against labelled fraud data, layered with trained ML risk scoring after pure graph-query heuristics missed non-trivial fraud patterns.
+- **Platform MCP Server** — added RAG and solution-editing tools so the internal chatbot can query and edit AI solution metadata via natural language.
+- **Bedrock Knowledge Bases** — migrated a custom knowledge base to AWS Bedrock behind a pluggable control-plane architecture that switches implementations based on environment config.
+
+<br/>
+
+## Open Source
+
+| Repo | Contribution |
+|---|---|
+| **[seed4j-cli](https://github.com/seed4j/seed4j)** · `PR #202` | Enhanced CLI `--help` output to surface example/default values for module parameters, improving discoverability; added dedicated test coverage for `ApplyModuleSubCommand`. |
+| **[db2rest](https://github.com/jayadeep-jd/db2rest)** · `PR #947` ✅ merged | Diagnosed and fixed a PostgreSQL boolean type-casting bug (`RSQL` filters like `active==true` throwing runtime mismatches); patched `BaseDialect` and added a regression test. |
+
+<br/>
 
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center"><b>🔍 SnapSearch</b></div>
-      <div align="center"><i>Semantic Search Engine</i></div><br/>
-      RAG pipeline using Florence-2 vision model for multi-modal embedding generation. Sub-millisecond vector retrieval via FAISS HNSW indexing. Fully containerised on Docker.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Kronos279/SnapSearch">→ View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center"><b>📊 Econometric Pipelines</b></div>
-      <div align="center"><i>Financial Time-Series Analysis</i></div><br/>
-      Automated data pipelines for macroeconomic forecasting. Applied ARIMA & VAR models to model inflation dynamics. Structured outputs for financial decision-making.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=scipy&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Kronos279/Econometric-Analysis">→ View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center"><b>🤖 Local LLM Stack</b></div>
-      <div align="center"><i>Private AI Deployment Infrastructure</i></div><br/>
-      Self-hosted LLM environment (Llama 3, Mistral) via Ollama & Docker. Python API wrappers for internal text processing. Scripted for rapid deployment and team adoption.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center"><b>✈️ AetherWings</b></div>
-      <div align="center"><i>Distributed Booking System</i></div><br/>
-      High-concurrency booking engine with event-driven architecture via RabbitMQ. ACID-compliant data integrity. Full microservices setup with Spring Boot.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Kronos279/FlightManagementSystem">→ View Project</a>
-    </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-    <div align="center"><b>🤖 Corporate Finance Autopilot</b></div>
-    <div align="center"><i>Agentic AI Finance Platform</i></div><br/>
-    Agentic AI loop powered by Llama 3.3 70B with autonomous tool-calling, RAG over SEC filings via pgvector, DCF/WACC financial engine, and real-time WebSocket streaming. Deployed on Google Cloud Run with CI/CD via Cloud Build.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-    <br/><br/>
-    <a href="https://github.com/Kronos279/corporate-finance-autopilot">→ Backend</a> · 
-    <a href="https://github.com/Kronos279/corporate-finance-autopilot-frontend">→ Frontend</a> · 
-    <a href="https://corporate-finance-autopilot-fronten.vercel.app/">→ Live Demo</a>
-  </td>
-  <td width="50%" valign="top"></td>
+<tr>
+<td width="50%" valign="top">
+
+**Corporate Finance Autopilot** — *Agentic AI Finance Platform*
+
+Agentic AI loop powered by Llama 3.3 70B with autonomous tool-calling, RAG over SEC filings via pgvector, a DCF/WACC financial engine, and real-time WebSocket streaming. Deployed on GCP Cloud Run with CI/CD via Cloud Build.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+
+[Backend](https://github.com/Kronos279/corporate-finance-autopilot) · [Frontend](https://github.com/Kronos279/corporate-finance-autopilot-frontend) · [Live Demo](https://corporate-finance-autopilot-fronten.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**SnapSearch** — *Semantic Image Retrieval System*
+
+Local, privacy-first macOS app for natural-language photo search — Florence-2 captioning, Sentence Transformer embeddings, FAISS HNSW retrieval, fully on-device via Apple Silicon MPS.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+
+[View Project](https://github.com/Kronos279/SnapSearch)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**SkillHub** — *AI-Enhanced Full-Stack LMS*
+
+Modular LMS with Java microservices and an API Gateway; Angular + Chart.js dashboards; Spring AI-powered conversational training assistant with JWT/RBAC across Admin, Trainer, and Learner roles.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**AetherWings** — *Distributed Booking System*
+
+High-concurrency booking engine with event-driven architecture via RabbitMQ, cutting cross-service latency by 25%. Containerised with Docker, orchestrated with Kubernetes.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+
+[View Project](https://github.com/Kronos279/FlightManagementSystem)
+
+</td>
 </tr>
 </table>
 
----
+<br/>
 
-## 💼 Previous Battles — Experience
+## Experience
 
-| | Role | Company | Highlights |
-|--|------|---------|------------|
-| ⚔️ | **Software Engineer** | Capgemini | Enterprise SaaS · Sony & Universal · Backend automation |
-| 📊 | **Data Analyst Associate** | Morningstar, Inc. | Corporate finance data · Routing efficiency · Data reliability |
+| Role | Company | Highlights |
+|---|---|---|
+| **AI Software Engineering Intern** | EXL Service, Dublin | Agentic RAG platform · Graph-based fraud detection · Bedrock Knowledge Bases |
+| **Software Engineer** | Capgemini | Enterprise SaaS · Sony & Universal · Backend automation |
+| **Data Analyst Associate** | Morningstar, Inc. | Corporate finance data · Routing efficiency · Data reliability |
 
----
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kronos279/Kronos279/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Kronos279/Kronos279/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*「 In this world, no matter the domain — bugs fear me. 」*
+<sub>MSc Computer Science · University College Dublin · AI SWE Intern @ EXL Service</sub>
 
-<br/>
+<br/><br/>
 
-*MSc Computer Science · University College Dublin · Available June 2026*
+<a href="https://www.linkedin.com/in/ashutosh-yadav-057181194/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://ashutoshya.com"><img src="https://img.shields.io/badge/Portfolio-4fc3f7?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-yadav-057181194/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4fc3f7?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshya.com)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:1a3a6b,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:1a3a6b,100:0a0a0f&height=100&section=footer&animation=fadeIn"/>
 
 </div>
