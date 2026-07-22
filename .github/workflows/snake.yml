@@ -20,8 +20,8 @@ jobs:
           github_user_name: Kronos279
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # Custom cyan/blue palette matching site accent (#4fc3f7)
+            dist/github-contribution-grid-snake-dark.svg
+          # Custom cyan/blue palette matching site accent (#4fc3f7) — applies to BOTH outputs
           color_snake: "#4fc3f7"
           color_dots: "#0c1a3a,#123a6b,#1a5a9b,#2f8fd0,#4fc3f7"
 
