@@ -47,6 +47,8 @@ const ashutosh = {
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangFuse-000000?style=flat-square&logo=langfuse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
@@ -95,7 +97,7 @@ Building AI systems on the EXLerate.ai platform as an AI Software Engineering In
 
 | Repo | Contribution |
 |---|---|
-| **[seed4j-cli](https://github.com/seed4j/seed4j)** · `PR #202` | Enhanced CLI `--help` output to surface example/default values for module parameters, improving discoverability; added dedicated test coverage for `ApplyModuleSubCommand`. |
+| **[seed4j-cli](https://github.com/seed4j/seed4j)** · `PR #202` ✅ merged | Enhanced CLI `--help` output to surface example/default values for module parameters, improving discoverability; added dedicated test coverage for `ApplyModuleSubCommand`. |
 | **[db2rest](https://github.com/jayadeep-jd/db2rest)** · `PR #947` ✅ merged | Diagnosed and fixed a PostgreSQL boolean type-casting bug (`RSQL` filters like `active==true` throwing runtime mismatches); patched `BaseDialect` and added a regression test. |
 | **[LocalHost-Legends](https://github.com/shridharjoshi034-ai/LocalHost-Legends)** — *UCD Policy Bot* (college project) | Significant contributor to a policy document retrieval system for UCD, built with Qdrant, BGE-M3 embeddings, and Ollama; implemented hybrid dense/sparse retrieval with RRF fusion, integrated LangFuse for tracing, and added an LLM-as-judge pipeline for automated response evaluation. |
 
