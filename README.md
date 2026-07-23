@@ -97,6 +97,7 @@ Building AI systems on the EXLerate.ai platform as an AI Software Engineering In
 |---|---|
 | **[seed4j-cli](https://github.com/seed4j/seed4j)** · `PR #202` | Enhanced CLI `--help` output to surface example/default values for module parameters, improving discoverability; added dedicated test coverage for `ApplyModuleSubCommand`. |
 | **[db2rest](https://github.com/jayadeep-jd/db2rest)** · `PR #947` ✅ merged | Diagnosed and fixed a PostgreSQL boolean type-casting bug (`RSQL` filters like `active==true` throwing runtime mismatches); patched `BaseDialect` and added a regression test. |
+| **[LocalHost-Legends](https://github.com/shridharjoshi034-ai/LocalHost-Legends)** — *UCD Policy Bot* (college project) | Significant contributor to a policy document retrieval system for UCD, built with Qdrant, BGE-M3 embeddings, and Ollama; implemented hybrid dense/sparse retrieval with RRF fusion, integrated LangFuse for tracing, and added an LLM-as-judge pipeline for automated response evaluation. |
 
 <br/>
 
